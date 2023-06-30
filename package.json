@@ -1,0 +1,15 @@
+{
+  "name": "week-9-assesment",
+  "version": "1.0.0",
+  "description": "week 9 asesment",
+  "main": "server.js.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HK-MBURU",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
